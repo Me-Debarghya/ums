@@ -1,2 +1,2 @@
-# ums
+# UMS
 Universal Module Standard (UMS)
